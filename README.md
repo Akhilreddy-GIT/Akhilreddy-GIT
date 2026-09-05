@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+backend+systems+that+scale;FastAPI+%7C+PostgreSQL+%7C+Redis+%7C+Docker;Final-year+CS+%40+GVPCE%2C+Visakhapatnam;Currently+shipping%3A+InternHub+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+backend+systems+that+scale;FastAPI+%7C+PostgreSQL+%7C+Redis+%7C+Docker;2nd-year+CS+%40+GVPCDPGC%2C+Visakhapatnam;Currently+shipping%3A+InternHub+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
