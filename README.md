@@ -18,8 +18,8 @@
 ```python
 class Akhil:
     def __init__(self):
-        self.role             = "B.Tech CS Student @ GVPCE, Visakhapatnam"
-        self.graduating       = 2028
+        self.role             = "B.Tech CS Student @ GVPCDPGC, Visakhapatnam"
+        self.graduating       = 2029
         self.location         = "Andhra Pradesh, India"
         self.focus            = ["Backend Engineering", "AI/LLM Systems"]
         self.currently_building = "InternHub — a FastAPI internship tracker"
