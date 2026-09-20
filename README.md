@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Akhilreddy-GIT/Akhilreddy-GIT/main/assets/media.jpg" width="100%" style="border-radius: 10px;"/>
+<img src="https://raw.githubusercontent.com/Akhilreddy-GIT/Akhilreddy-GIT/main/assets/Media.jpg" width="100%" style="border-radius: 10px;"/>
 
 </div>
 
@@ -35,7 +35,7 @@ class Akhil:
 
 </td>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/Akhilreddy-GIT/Akhilreddy-GIT/main/assets/media.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Akhilreddy-GIT/Akhilreddy-GIT/main/assets/Media.jpg" width="100%"/>
 
 **📡 currently**
 - 🔭 Building **InternHub** — FastAPI internship tracker, my primary backend learning vehicle
