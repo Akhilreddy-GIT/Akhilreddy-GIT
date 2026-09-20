@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,4,6&text=AKHIL%20REDDY&fontSize=52&fontColor=E8F4F2&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer%20%E2%80%94%20Building%20systems%20under%20the%20surface&descAlignY=58&descSize=18" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=5FB3A3&center=true&vCenter=true&width=600&lines=async+def+build_something_real()%3A;while+not+self.mastered%3A+self.learn();return+backend_engineer%2C+AI_engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5FB3A3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Akhil+%E2%80%94+Backend+%26+AI+Engineer;async+def+build_something_real()%3A;while+not+self.mastered%3A+self.learn()" alt="Typing SVG" />
 
 <br><br>
 
