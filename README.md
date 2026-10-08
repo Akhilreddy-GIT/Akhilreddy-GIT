@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/Media.jpg" width="100%" alt="Akhil cinematic GitHub banner"/>
+<img src="./assets/itachi (1).png" width="100%" alt="Akhil cinematic GitHub banner"/>
 
 <br><br>
 
